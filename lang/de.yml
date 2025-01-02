@@ -1,0 +1,4 @@
+de:
+  Turnstile\Forms\TurnstileField:
+    EMPTY: "Bitte beantworten Sie das Captcha, wenn Sie das Captcha nicht sehen, müssen Sie JavaScript aktivieren"
+    WRONG: "Validierung des Captcha fehlgeschlagen, bitte versuchen Sie es erneut"

@@ -1,0 +1,9 @@
+---
+Name: turnstilespamprotection
+After: spamprotection
+---
+#SilverStripe\SpamProtection\Extension\FormSpamProtectionExtension:
+#  default_spam_protector: Turnstile\Forms\TurnstileProtector
+#Turnstile\Forms\TurnstileField:
+#  site_key: ""
+#  secret_key: ""
